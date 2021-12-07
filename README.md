@@ -1,6 +1,5 @@
 # HELPARTY
-> 코틀린 기본기
-> 폴더마다 작은 토이프로젝트 있습니다.
+당신의 운동친구를 찾아드립니다. HELP + PARTY 또는 HELL + PART 되는
 
 ![](../header.png)
 
@@ -14,9 +13,9 @@
 
 
 ## 미리보기  
-* BTS Gallery (2021.12.05)
+* LoadingPage LoginPage (2021.12.08)
    <div>
-        <img width="25%" height="25%" src="https://user-images.githubusercontent.com/78077569/144756168-60f904c4-82eb-454e-a886-cbb4723c62c7.jpg" alt="">        
+        <img width="50%" height="50%" src="https://user-images.githubusercontent.com/78077569/145063324-d4d1d140-c3ef-4568-b9f4-5e7079de0537.jpg">        
    </div>
 
 
