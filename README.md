@@ -8,6 +8,8 @@
 
 * 0.0.1
     * Loading Page, Login page UI(21.12.08)
+    * Join Page UI(21.12.10)
+    
 
 
 
