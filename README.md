@@ -1,7 +1,9 @@
 # HELPARTY
 당신의 운동친구를 찾아드립니다. HELP + PARTY 또는 HELL + PART 되는
 
-![](../header.png)
+## 🎨 Figma
+
+[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FeWWBW4HFJekuipH9acUfo2%2FHellParty](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FeWWBW4HFJekuipH9acUfo2%2FHellParty)
 
 
 ## 업데이트 내역
